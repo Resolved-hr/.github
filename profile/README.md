@@ -1,5 +1,5 @@
 
-![Resolved Logo]([https://example.com/resolved-logo.png "Resolved Logo"](https://raw.githubusercontent.com/Resolved-hr/.github/refs/heads/main/profile/github.png))
+![Resolved](https://raw.githubusercontent.com/Resolved-hr/.github/refs/heads/main/profile/github.png "Resolved")
 
 
 Welcome to the **Resolved**! 🚀  
