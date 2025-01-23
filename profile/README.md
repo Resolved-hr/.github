@@ -1,4 +1,6 @@
-# Resolved.hr 🌍
+
+![Resolved Logo]([https://example.com/resolved-logo.png "Resolved Logo"](https://raw.githubusercontent.com/Resolved-hr/.github/refs/heads/main/profile/github.png))
+
 
 Welcome to the **Resolved**! 🚀  
 We are a community-driven initiative dedicated to connecting people and empowering communities to address local issues, suggest improvements, and foster collaboration for a better urban experience.
